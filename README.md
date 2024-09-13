@@ -21,10 +21,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nikhilgayakwad121/" target="_blank">Nikhil Gayakwad</a>
 
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilgayakwad121&show_icons=true" alt="nikhilgayakwad121">
   </p> 
-
+-->
 
 
 
