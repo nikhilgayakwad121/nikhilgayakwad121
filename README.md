@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <hi align="center">Hi there, I am Nikhil Gayakwad 👋</h1>
 
 - 🔭 I’m currently working as SWE for <a href="https://www.microsoft.com/en-in/" target="_blank">Cisco Systems</a>
-- 💬 Ask me about <strong>java </strong>
+- 💬 Ask me about <strong>java, Spring Boot, Rest API's</strong>
 - 🌱 I’m currently learning <strong>Data Structures, Algorithms, CS Fundamentals, System Design & Its Applications </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nikhilgayakwad121/" target="_blank">Nikhil Gayakwad</a>
 
