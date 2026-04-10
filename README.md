@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <hi align="center">Hi there, I am Nikhil Gayakwad 👋</h1>
 
@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about <strong>Java, Spring Boot, Rest API's, Microservices </strong>
 - 🌱 I’m currently learning <strong>Data Structures, Algorithms, CS Fundamentals, System Design & Its Applications </strong>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/nikhilgayakwad121/" target="_blank">Nikhil Gayakwad</a>
+-->
 
 
 <!--
